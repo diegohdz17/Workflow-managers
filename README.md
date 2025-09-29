@@ -54,6 +54,8 @@ Amazon y otras tiendas suelen proteger su contenido, por lo que es más fácil h
 El flujo se puede programar con Prefect o con un programador de tareas (cron) para obtener precios de manera periódica.
 
 Resultado del csv
+
+
 <img width="549" height="274" alt="Captura1" src="https://github.com/user-attachments/assets/1ca79a32-5efd-4580-b571-3bd29dffde3f" />
 
 
